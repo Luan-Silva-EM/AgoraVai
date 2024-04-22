@@ -1,0 +1,14 @@
+C:\WorkLuan\Projeto1\Projeto1\bin\Debug\net8.0\Projeto1.exe
+C:\WorkLuan\Projeto1\Projeto1\bin\Debug\net8.0\Projeto1.deps.json
+C:\WorkLuan\Projeto1\Projeto1\bin\Debug\net8.0\Projeto1.runtimeconfig.json
+C:\WorkLuan\Projeto1\Projeto1\bin\Debug\net8.0\Projeto1.dll
+C:\WorkLuan\Projeto1\Projeto1\bin\Debug\net8.0\Projeto1.pdb
+C:\WorkLuan\Projeto1\Projeto1\obj\Debug\net8.0\Projeto1.GeneratedMSBuildEditorConfig.editorconfig
+C:\WorkLuan\Projeto1\Projeto1\obj\Debug\net8.0\Projeto1.AssemblyInfoInputs.cache
+C:\WorkLuan\Projeto1\Projeto1\obj\Debug\net8.0\Projeto1.AssemblyInfo.cs
+C:\WorkLuan\Projeto1\Projeto1\obj\Debug\net8.0\Projeto1.csproj.CoreCompileInputs.cache
+C:\WorkLuan\Projeto1\Projeto1\obj\Debug\net8.0\Projeto1.dll
+C:\WorkLuan\Projeto1\Projeto1\obj\Debug\net8.0\refint\Projeto1.dll
+C:\WorkLuan\Projeto1\Projeto1\obj\Debug\net8.0\Projeto1.pdb
+C:\WorkLuan\Projeto1\Projeto1\obj\Debug\net8.0\Projeto1.genruntimeconfig.cache
+C:\WorkLuan\Projeto1\Projeto1\obj\Debug\net8.0\ref\Projeto1.dll
